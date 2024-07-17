@@ -2,7 +2,7 @@
 
 God tool is a multitool with **INSANE** attack speed and damage, durability, enchantability etc etc, but its **really HARD to get in survival/hardcore**
 
-** Download the mod from modrinth**
+**Download the mod from modrinth**
 
 ## Comparison Chart
 
@@ -26,4 +26,9 @@ and 2 silence armor trims
 
 ---
 <a href="https://github.com/Coool-one/God-tool"><img src="https://cdn.modrinth.com/data/cached_images/6a00973cc7cd2f17e0cd884253512992b78cc304.png" alt="github" width="50"></a> <a href="https://modrinth.com/organization/super-bros"><img src="https://i.imgur.com/Wi0gG3J.png" alt="modrinth" width="50"></a>
+
+---
+ye i used mcretor
+
+i need to learn java😔
 

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "god_tool:item/diamond_pickaxe"
+  }
+}

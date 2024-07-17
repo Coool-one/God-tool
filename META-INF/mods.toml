@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="god_tool"
+version="1.0.0"
+displayName="God tool"
+authors="Not specified"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.god_tool]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

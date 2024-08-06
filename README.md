@@ -22,13 +22,13 @@ God tool is a multitool with **INSANE** attack speed and damage, durability, enc
 Gets craftted with a dragon egg, 2 piglin heads, chainmail chestplate, 2 netherite blocks, a blaze rod 
 and 2 silence armor trims
 
-<small>i know very hard</small>
+<small>we know very hard</small>
 
 ---
 <a href="https://github.com/Coool-one/God-tool"><img src="https://cdn.modrinth.com/data/cached_images/6a00973cc7cd2f17e0cd884253512992b78cc304.png" alt="github" width="50"></a> <a href="https://modrinth.com/organization/super-bros"><img src="https://i.imgur.com/Wi0gG3J.png" alt="modrinth" width="50"></a>
 
 ---
-ye i used mcretor
+ye we used mcretor
 
-i need to learn java😔
+we need to learn java😔
 

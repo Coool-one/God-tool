@@ -2,6 +2,8 @@
 
 God tool is a multitool with **INSANE** attack speed and damage, durability, enchantability etc etc, but its **really HARD to get in survival/hardcore**
 
+**Note : if you want to see the source code for the fabric version go to the fabric branch in this repo**
+
 **Download the mod from modrinth**
 
 ## Comparison Chart

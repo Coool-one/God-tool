@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.godtool.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GodToolModRepairItemRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "god_tool.refmap.json"
+}

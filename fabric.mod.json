@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "god_tool",
+  "version": "1.0.0",
+  "name": "God_tool",
+  "authors": [
+    "Super Bros"
+  ],
+  "license": "GPL-3.0",
+  "accessWidener": "god_tool.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.godtool.GodToolMod"
+    ],
+    "client": [
+      "net.mcreator.godtool.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "god_tool.mixins.json"
+]
+}

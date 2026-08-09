@@ -1,0 +1,28 @@
+*.java linguist-detectable=true
+
+*.json         linguist-generated=true
+*.json5        linguist-generated=true
+*.mcmeta       linguist-generated=true
+*.toml         linguist-generated=true
+*.cfg          linguist-generated=true
+*.lang         linguist-generated=true
+*.properties   linguist-generated=true
+*.xml          linguist-generated=true
+*.yml          linguist-generated=true
+*.yaml         linguist-generated=true
+*.md           linguist-generated=true
+*.txt          linguist-generated=true
+*.mcreator     linguist-generated=true
+*.mcfunction   linguist-generated=true
+*.nbt          linguist-generated=true
+*.png          linguist-generated=true
+*.ogg          linguist-generated=true
+
+gradle/**      linguist-vendored
+gradlew        linguist-vendored
+gradlew.bat    linguist-vendored
+*.gradle       linguist-vendored
+*.gradle.kts   linguist-vendored
+
+src/main/resources/**  linguist-generated=true
+src/generated/**       linguist-generated=true

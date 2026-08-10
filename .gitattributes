@@ -1,5 +1,4 @@
 * linguist-vendored
-*.java linguist-detectable=true
-*.java linguist-documentation=false
-*.java linguist-vendored=false
-*.java linguist-generated=false
+src/main/java/** linguist-detectable=true
+src/main/java/** linguist-vendored=false
+src/main/java/** linguist-documentation=false

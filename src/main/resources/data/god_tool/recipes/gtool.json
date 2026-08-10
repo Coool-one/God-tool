@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_block"
+    },
+    "b": {
+      "item": "minecraft:dragon_egg"
+    },
+    "c": {
+      "item": "minecraft:silence_armor_trim_smithing_template"
+    },
+    "d": {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    "e": {
+      "item": "minecraft:piglin_head"
+    },
+    "f": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "god_tool:godtool",
+    "count": 1
+  }
+}
